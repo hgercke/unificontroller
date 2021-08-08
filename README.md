@@ -1,6 +1,6 @@
 # Docker Ubiquiti UniFi controller
 
-This builds a Docker Image of the Ubiquiti UniFi Controller.
+This builds a Linux Docker Image of the Ubiquiti UniFi Controller.
 
 ## About
 
